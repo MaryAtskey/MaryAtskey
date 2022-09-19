@@ -1,6 +1,4 @@
-<div id="header" align="center">
-<iframe src="https://giphy.com/embed/heOKY8nrJUMfK" width="480" height="236" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/night-heOKY8nrJUMfK">via GIPHY</a></p>
-</div>
+
 
 <!--
 **MaryAtskey/MaryAtskey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
