@@ -1,5 +1,15 @@
 ![gifntext-gif](https://user-images.githubusercontent.com/113581848/191034558-a53ecbd4-3bfe-4e84-9612-6e27be8d8533.gif)
 
+Hello, everyone! 
+
+My name is Maryia and I am a future front-end developer. I'm currently studying at Medieeinstitutet in Malmö, Sweden. 
+
+I came from Minsk, Belarus where I graduated from the university in 2010. I stadied linguistics but I worked mostly as a content-manager and copywriter.
+
+I moved to Sweden in 2018, and I started this new chapter of my life with courses of Swedish. Now I am old enough to go further.
+
+
+
 
 <!--
 **MaryAtskey/MaryAtskey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
