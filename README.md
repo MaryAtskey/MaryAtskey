@@ -3,7 +3,7 @@
 ## Briefly about me... 
 
 * My name is Maryia and I am a future front-end developer. 
-* I'm currently studying at Medieeinstitutet in Malmö, Sweden. 
+* I'm currently studying at Medieinstitutet in Malmö, Sweden. 
 * I came from Minsk, Belarus where I graduated from the university in 2010. 
 * I stadied linguistics but I worked mostly as a content-manager and copywriter.
 * I moved to Sweden in 2018, and I started this new chapter of my life with courses of Swedish. 
